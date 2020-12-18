@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   병역사항 : 사회복무요원(2017.07 ~ 2019.07) 부천시청 민원대 근무
 
-  사용 언어 : <mark>Java</mark><mark>python</mark><mark>C</mark><mark>C++</mark><mark>C#</mark>
+  사용 언어 : <mark>Java</mark> <mark>python</mark> <mark>C</mark> <mark>C++</mark> <mark>C#</mark>
 
   안녕하세요. 한림대학교 빅데이터 3학년 이원준입니다. 소프트웨어 개발자가 되는 것이 목표이며, 
   특히 <mark>python</mark>을 이용한 <mark>머신러닝/딥러닝</mark>에 관심이 많습니다. 잘부탁드립니다.
@@ -83,10 +83,10 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           2020년 2학기 기말과제로 사용한 유니티를 이용해서 만든 간단한 주사위 게임입니다. 주사위 세개를 던져 나온 총합이 컴퓨터가 던진 총합보다 크면 우승합니다.
-          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102615824-e55f2c00-4179-11eb-9f9d-1a3f16c738c5.png" width="250px"></p> 
-          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102627573-b94ca680-418b-11eb-92e2-13eb2c10d7c3.png" width="250px"></p> 
-          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102627652-d5e8de80-418b-11eb-9982-c8183c9e8a0c.png" width="250px"></p> 
-          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102616553-10964b00-417b-11eb-88e4-bd5851582168.png" width="250px"></p> 
+          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102615824-e55f2c00-4179-11eb-9f9d-1a3f16c738c5.png" width="250px"> 
+          <img src = "https://user-images.githubusercontent.com/55430857/102627573-b94ca680-418b-11eb-92e2-13eb2c10d7c3.png" width="250px"> 
+          <img src = "https://user-images.githubusercontent.com/55430857/102627652-d5e8de80-418b-11eb-9982-c8183c9e8a0c.png" width="250px">
+          <img src = "https://user-images.githubusercontent.com/55430857/102616553-10964b00-417b-11eb-88e4-bd5851582168.png" width="250px"></p> 
 
 
       - layout: top-middle
