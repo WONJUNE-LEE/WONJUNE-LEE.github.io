@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 이원준
+name: 이원준(LEEWONJUNE)
 title: 한림대학교 빅데이터과 학부생
 email: gee04147@gmail.com
-website: www.github.com/WONJUNE-LEE
+#website: www.github.com/WONJUNE-LEE
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,29 +48,33 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  안녕하세요. 한림대학교 빅데이터 3학년 이원준입니다. 소프트웨어 개발자가 되는 것이 목표이며, 
+  특히 <mark>파이썬</mark>을 이용한 <mark>머신러닝/딥러닝</mark>에 관심이 많습니다. 잘부탁드립니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: UnitySimpleDiceGame
+        link: github.com/WONJUNE-LEE/unitySimpleDIceGame
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  WONJUNE-LEE/unitySimpleDIceGame
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/WONJUNE-LEE/unitySimpleDIceGame
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          2020년 2학기 기말과제로 사용한 유니티를 이용해서 만든 간단한 주사위 게임입니다. 주사위 세개를 던져 나온 총합이 컴퓨터가 던진 총합보다 크면 우승합니다.
+          ![3](/images/3.jpg "3")
+
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
