@@ -49,9 +49,13 @@ additional_links:
 about_profile_image: images/wonjune.jpg
 about_content: | # this will include new lines to allow paragraphs
   이름 : 이원준
+
   학력 : 한림대학교 재학중
+
   소재지 : 경기도 부천
+
   병역사항 : 사회복무요원(2017.07 ~ 2019.07) 부천시청 민원대 근무
+
   사용 언어 : <mark>Java</mark><mark>python</mark><mark>C</mark><mark>C++</mark><mark>C#</mark>
 
   안녕하세요. 한림대학교 빅데이터 3학년 이원준입니다. 소프트웨어 개발자가 되는 것이 목표이며, 
@@ -137,7 +141,7 @@ content:
           - MOS WORD 2016	등록번호 : 2yPr-XMNP 취득일 :	2020/06/18
 
 
-      - layout: left
+      - layout: top-middle
         title: 데이터 분석과 이미지 처리를 위한 딥러닝 활용
         caption: 2020/07/20~2020/07/22
         sub_title: 정보통신산업진흥원
@@ -145,7 +149,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
 
-      - layout: left
+      - layout: top-middle
         title: 파이썬을 활용한 공공데이터 분석(기본)
         caption: 2020/07/27~2020/07/29
         sub_title: 정보통신산업진흥원
