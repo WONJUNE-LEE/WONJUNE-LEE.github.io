@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   학력 : 한림대학교 재학중
 
+  학점 :	3.7/4.5
+
   소재지 : 경기도 부천
 
   병역사항 : 사회복무요원(2017.07 ~ 2019.07) 부천시청 민원대 근무
@@ -81,11 +83,14 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           2020년 2학기 기말과제로 사용한 유니티를 이용해서 만든 간단한 주사위 게임입니다. 주사위 세개를 던져 나온 총합이 컴퓨터가 던진 총합보다 크면 우승합니다.
-          <img src = "https://user-images.githubusercontent.com/55430857/102615824-e55f2c00-4179-11eb-9f9d-1a3f16c738c5.png" width="250px"> <img src = "https://user-images.githubusercontent.com/55430857/102627573-b94ca680-418b-11eb-92e2-13eb2c10d7c3.png" width="250px"> <img src = "https://user-images.githubusercontent.com/55430857/102627652-d5e8de80-418b-11eb-9982-c8183c9e8a0c.png" width="250px"><img src = "https://user-images.githubusercontent.com/55430857/102616553-10964b00-417b-11eb-88e4-bd5851582168.png" width="250px">
+          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102615824-e55f2c00-4179-11eb-9f9d-1a3f16c738c5.png" width="250px"></p> 
+          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102627573-b94ca680-418b-11eb-92e2-13eb2c10d7c3.png" width="250px"></p> 
+          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102627652-d5e8de80-418b-11eb-9982-c8183c9e8a0c.png" width="250px"></p> 
+          <p align="center"><img src = "https://user-images.githubusercontent.com/55430857/102616553-10964b00-417b-11eb-88e4-bd5851582168.png" width="250px"></p> 
 
 
       - layout: top-middle
-        title: Hallym 2020 AI+X R&D 챌린지
+        title: Hallym 2020 AI+X R&D 챌린지 Track01
         link: https://www.kaggle.com/c/hallym-2020-2-aicomp01
         # link_text: Project Website
         #additional_links:
@@ -96,9 +101,43 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          한림대에서 개최하고 kaggle에서 진행되는 AI대회
+          한림대에서 개최하고 kaggle에서 진행중인 AI대회 - 운전자분류문제
         description: | # this will include new lines to allow paragraphs
-          한림대에서 개최한 AI대회 첫번째 트랙 운전자 분류문제에 참가중이며 현재 public leaderboard에서 2위를 달성중입니다.
+          한림대에서 개최한 AI대회로 10개의 클래스로 분류된 운전자 사진을 제일 정확하게 분류해내는 모델을 만드는 대회이며, 현재 퍼블릭 리더보드에서 3위를 기록중입니다.
+          파이토치를 사용하여 여러 인공지능 모델을 앙상블시키는 기법을 사용하고 있습니다.
+
+      - layout: top-middle
+        title: Hallym 2020 AI+X R&D 챌린지 Track02
+        link: https://www.kaggle.com/c/hallym-2020-2-aicomp02
+        # link_text: Project Website
+        #additional_links:
+          #- title:  WONJUNE-LEE/unitySimpleDIceGame
+          #  icon: fab fa-github
+          #  url: github.com/WONJUNE-LEE/unitySimpleDIceGame
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          한림대에서 개최하고 kaggle에서 진행중인 AI대회 - 피부암 판별
+        description: | # this will include new lines to allow paragraphs
+          한림대에서 개최한 AI대회로 3개의 클래스로 분류된 피부암 이미지를 제일 정확하게 분류해내는 모델을 만드는 대회이며, 현재 퍼블릭 리더보드에서 1위를 기록중입니다.
+          파이토치를 사용하여 여러 인공지능 모델을 앙상블시키는 기법을 사용하고 있습니다. 
+
+      - layout: top-middle
+        title: Hallym 2020 AI+X R&D 챌린지 Track03
+        link: https://www.kaggle.com/c/hallym-2020-2-aicomp03
+        # link_text: Project Website
+        #additional_links:
+          #- title:  WONJUNE-LEE/unitySimpleDIceGame
+          #  icon: fab fa-github
+          #  url: github.com/WONJUNE-LEE/unitySimpleDIceGame
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          한림대에서 개최하고 kaggle에서 진행중인 AI대회 - 뇌신호를 이용한 O/X분류
+        description: | # this will include new lines to allow paragraphs
+          한림대에서 개최한 AI대회로 피험자 15명의 뇌파데이터를 이용하여 O/X를 분류해야 하는 문제입니다. Keras를 이용하여 문제를 해결중이고 현재 퍼블릭 리더보드에서 1위를 기록중입니다.
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
