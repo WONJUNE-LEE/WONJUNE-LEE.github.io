@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/wonjune.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 한림대학교 빅데이터 3학년 이원준입니다. 소프트웨어 개발자가 되는 것이 목표이며, 
   특히 <mark>파이썬</mark>을 이용한 <mark>머신러닝/딥러닝</mark>에 관심이 많습니다. 잘부탁드립니다.
