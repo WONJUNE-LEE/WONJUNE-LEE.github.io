@@ -9,7 +9,7 @@ version: 2
 name: 이원준(LEEWONJUNE)
 title: 한림대학교 빅데이터과 학부생
 email: gee04147@gmail.com
-#website: www.github.com/WONJUNE-LEE
+this-page: https://wonjune-lee.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
