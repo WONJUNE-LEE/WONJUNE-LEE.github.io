@@ -48,9 +48,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/wonjune.jpg
 about_content: | # this will include new lines to allow paragraphs
-  안녕하세요. 한림대학교 빅데이터 3학년 이원준입니다. 소프트웨어 개발자가 되는 것이 목표이며, 
-  특히 <mark>파이썬</mark>을 이용한 <mark>머신러닝/딥러닝</mark>에 관심이 많습니다. 잘부탁드립니다.
+  이름 : 이원준
+  학력 : 한림대학교 재학중
+  소재지 : 경기도 부천
+  병역사항 : 사회복무요원(2017.07 ~ 2019.07) 부천시청 민원대 근무
+  사용 언어 : <mark>Java</mark><mark>python</mark><mark>C</mark><mark>C++</mark><mark>C#</mark>
 
+  안녕하세요. 한림대학교 빅데이터 3학년 이원준입니다. 소프트웨어 개발자가 되는 것이 목표이며, 
+  특히 <mark>python</mark>을 이용한 <mark>머신러닝/딥러닝</mark>에 관심이 많습니다. 잘부탁드립니다.
   
 
 content:
@@ -73,7 +78,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           2020년 2학기 기말과제로 사용한 유니티를 이용해서 만든 간단한 주사위 게임입니다. 주사위 세개를 던져 나온 총합이 컴퓨터가 던진 총합보다 크면 우승합니다.
           <img src = "https://user-images.githubusercontent.com/55430857/102615824-e55f2c00-4179-11eb-9f9d-1a3f16c738c5.png" width="250px"> <img src = "https://user-images.githubusercontent.com/55430857/102627573-b94ca680-418b-11eb-92e2-13eb2c10d7c3.png" width="250px"> <img src = "https://user-images.githubusercontent.com/55430857/102627652-d5e8de80-418b-11eb-9982-c8183c9e8a0c.png" width="250px"><img src = "https://user-images.githubusercontent.com/55430857/102616553-10964b00-417b-11eb-88e4-bd5851582168.png" width="250px">
-          
+
 
       - layout: top-middle
         title: Hallym 2020 AI+X R&D 챌린지
@@ -90,12 +95,6 @@ content:
           한림대에서 개최하고 kaggle에서 진행되는 AI대회
         description: | # this will include new lines to allow paragraphs
           한림대에서 개최한 AI대회 첫번째 트랙 운전자 분류문제에 참가중이며 현재 public leaderboard에서 2위를 달성중입니다.
-          
-
-          
-
-          
-
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
@@ -122,17 +121,49 @@ content:
         description: | # this will include new lines to allow paragraphs
           강원도에 위치한 한림대학교에 재학중입니다. 2016년 공과대학 컴퓨터공학과로 입학하였고, 한림대학교가 2019년 정부가 주도하는 소프트웨어 사업단에 선정됨에 따라 소프트웨어융합대학 빅데이터과로 개편되었습니다.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: 자격증 및 교육(Certification and training) # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: MOS
+        caption: 
+        sub_title: microsoft office specialist
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          - MOS POWERPOINT 2010 등록번호 :  hMEB-FV7w	취득일 : 2016/06/08
+          - MOS ACCESS 2010	등록번호 : 	Ps5L-uG4A 취득일 : 2016/05/04
+          - MOS EXCEL 2016 등록번호 : moqn-DwBq	취득일 : 2020/05/14
+          - MOS WORD 2016	등록번호 : 2yPr-XMNP 취득일 :	2020/06/18
 
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+
+      - layout: left
+        title: 데이터 분석과 이미지 처리를 위한 딥러닝 활용
+        caption: 2020/07/20~2020/07/22
+        sub_title: 정보통신산업진흥원
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: 파이썬을 활용한 공공데이터 분석(기본)
+        caption: 2020/07/27~2020/07/29
+        sub_title: 정보통신산업진흥원
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+
+  #- title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #    Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #    - Rock climbing
+  #    - Gaming
+  #    - Knitting
+  #    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #    Look at this cool image  
+  #    ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
