@@ -72,7 +72,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           2020년 2학기 기말과제로 사용한 유니티를 이용해서 만든 간단한 주사위 게임입니다. 주사위 세개를 던져 나온 총합이 컴퓨터가 던진 총합보다 크면 우승합니다.
-          ![3](/images/3.jpg "3")
+          ![3](/images/3.png "3")
 
           
 
@@ -114,7 +114,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
