@@ -65,12 +65,14 @@ content:
       - layout: left
         link: https://staratlas.com/
         title: StarAtlas
-        sub_title: 빅데이터(컴퓨터 공학)
-        caption: YOUR INTERSTELLAR ADVENTURE AWAITS
+        sub_title: YOUR INTERSTELLAR <br>ADVENTURE AWAITS
+        #caption: YOUR INTERSTELLAR ADVENTURE AWAITS
         quote: >
-          2021 QS 세계대학평가 국내18위, 세계 551-560위 강원도내 유일 세계 500위권 랭크
+          "우주의 경계에 가장 먼저 도착한 사람은 번영의 문을 두드리게 될것입니다."
         description: | # this will include new lines to allow paragraphs
-          강원도에 위치한 한림대학교에 재학중입니다. 2016년 공과대학 컴퓨터공학과로 입학하였고, 한림대학교가 2019년 정부가 주도하는 소프트웨어 사업단에 선정됨에 따라 소프트웨어융합대학 빅데이터과로 개편되었습니다.
+          솔라나 기반의 우주 메타버스 게임인 StarAtlas는 완전히 새로운 장르의 경험의 메타버스로의 시작으로서 
+          여러분을 미지의 탐험으로 이끌것입니다.
+          
         
           
   - title: Projects # Title for the section
