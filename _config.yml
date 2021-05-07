@@ -185,7 +185,7 @@ content:
     content:
       - layout: left
         title: 한림대학교
-        caption: 2016 - 2020(재학중)
+        caption: 2016 - 2021(재학중)
         sub_title: 빅데이터(컴퓨터 공학)
         quote: >
           2021 QS 세계대학평가 국내18위, 세계 551-560위 강원도내 유일 세계 500위권 랭크
@@ -208,7 +208,7 @@ content:
           - MOS WORD 2016	등록번호 : 2yPr-XMNP 취득일 :	2020/06/18
 
 
-      - layout: top-middle
+      - layout: left
         title: 데이터 분석과 이미지 처리를 위한 딥러닝 활용
         caption: 2020/07/20~2020/07/22
         sub_title: 정보통신산업진흥원
@@ -216,7 +216,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
 
-      - layout: top-middle
+      - layout: left
         title: 파이썬을 활용한 공공데이터 분석(기본)
         caption: 2020/07/27~2020/07/29
         sub_title: 정보통신산업진흥원
