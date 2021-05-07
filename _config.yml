@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 이원준[LEEWONJUNE]
+name: 이원준[LEE WONJUNE]
 title: 한림대학교 빅데이터과
 email: gee04147@gmail.com
 website: https://wonjune-lee.github.io/
@@ -54,14 +54,25 @@ about_content: | # this will include new lines to allow paragraphs
   특히 <mark>python</mark>을 이용한 <mark>머신러닝/딥러닝</mark>과 <mark>블록체인</mark>에 관심이 많습니다.
 
   현재 몇몇 블록체인 커뮤니티의 관리자로 활동중입니다.<br>
-  솔라나 기반 우주 메타버스 게임 - <a herf = https://staratlas.com/>https://staratlas.com</a>
-
-
 
 # <img src = "https://user-images.githubusercontent.com/55430857/102633427-c1104900-4193-11eb-929d-58063cd00435.png" width="160px">
   
 
 content:
+  - title: Community Manager # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        link: https://staratlas.com/
+        title: StarAtlas
+        sub_title: 빅데이터(컴퓨터 공학)
+        caption: YOUR INTERSTELLAR ADVENTURE AWAITS
+        quote: >
+          2021 QS 세계대학평가 국내18위, 세계 551-560위 강원도내 유일 세계 500위권 랭크
+        description: | # this will include new lines to allow paragraphs
+          강원도에 위치한 한림대학교에 재학중입니다. 2016년 공과대학 컴퓨터공학과로 입학하였고, 한림대학교가 2019년 정부가 주도하는 소프트웨어 사업단에 선정됨에 따라 소프트웨어융합대학 빅데이터과로 개편되었습니다.
+        
+          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
