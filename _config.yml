@@ -116,7 +116,7 @@ content:
           주사위 세개를 던져 나온 총합이 컴퓨터가 던진 총합보다 크면 우승합니다.
 
 
-      - layout: top-middle
+      - layout: left
         title: Hallym 2020 AI+X R&D 챌린지 Track01
         link: https://www.kaggle.com/c/hallym-2020-2-aicomp01
         # link_text: Project Website
@@ -128,12 +128,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          한림대에서 개최하고 kaggle에서 진행중인 AI대회 - 운전자분류문제
+          한림대에서 개최하고 kaggle에서 진행한 AI대회 - 운전자분류문제
         description: | # this will include new lines to allow paragraphs
-          한림대에서 개최한 AI대회로 10개의 클래스로 분류된 운전자 사진을 제일 정확하게 분류해내는 모델을 만드는 대회이며, 현재 퍼블릭 리더보드에서 3위를 기록중입니다.
-          파이토치를 사용하여 여러 인공지능 모델을 앙상블시키는 기법을 사용하고 있습니다.
+          한림대에서 개최한 AI대회로 10개의 클래스로 분류된 운전자 사진을 제일 정확하게 분류해내는 모델을 만드는 대회이며, 1위 정확도인 92%에서 4%낮은 88%의 정확도가 
+          나온 모델을 코딩했습니다.
 
-      - layout: top-middle
+      - layout: left
         title: Hallym 2020 AI+X R&D 챌린지 Track02
         link: https://www.kaggle.com/c/hallym-2020-2-aicomp02
         # link_text: Project Website
@@ -145,14 +145,14 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          한림대에서 개최하고 kaggle에서 진행중인 AI대회 - 피부암 판별
+          한림대에서 개최하고 kaggle에서 진행한 AI대회 - 피부암 판별
         description: | # this will include new lines to allow paragraphs
-          한림대에서 개최한 AI대회로 3개의 클래스로 분류된 피부암 이미지를 제일 정확하게 분류해내는 모델을 만드는 대회이며, 현재 퍼블릭 리더보드에서 1위를 기록중입니다.
-          파이토치를 사용하여 여러 인공지능 모델을 앙상블시키는 기법을 사용하고 있습니다. 
+          한림대에서 개최한 AI대회로 3개의 클래스로 분류된 피부암 이미지를 제일 정확하게 분류해내는 모델을 만드는 대회이며, 파이토치를 사용하여 
+          여러 인공지능 모델을 앙상블시키는 기법을 사용했습니다. 1위 정확도인 82%에서 3%낮은 79%의 모델을 코딩했습니다.
 
-      - layout: top-middle
+      - layout: left
         title: Hallym 2020 AI+X R&D 챌린지 Track03
-        link: https://www.kaggle.com/c/hallym-2020-2-aicomp03
+        link: https://www.kaggle.com/c/hallym-2020-2-aicomp03-01
         # link_text: Project Website
         #additional_links:
           #- title:  WONJUNE-LEE/unitySimpleDIceGame
@@ -162,9 +162,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          한림대에서 개최하고 kaggle에서 진행중인 AI대회 - 뇌신호를 이용한 O/X분류
+          한림대에서 개최하고 kaggle에서 진행한 AI대회 - 뇌신호를 이용한 O/X분류
         description: | # this will include new lines to allow paragraphs
-          한림대에서 개최한 AI대회로 피험자 15명의 뇌파데이터를 이용하여 O/X를 분류해야 하는 문제입니다. Keras를 이용하여 문제를 해결중이고 현재 퍼블릭 리더보드에서 1위를 기록중입니다.
+          한림대에서 개최한 AI대회로 피험자 15명의 뇌파데이터를 사용하여 O/X를 분류해야 하는 문제입니다. Keras를 이용하여 문제를 해결했고
+          80%의 정확도로 은상을 수상했습니다.
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
