@@ -77,7 +77,7 @@ content:
 
           ![calico-guardian](https://user-images.githubusercontent.com/55430857/117423040-391cb700-af5b-11eb-99e9-503be8b5161a.png)
 
-          
+
       - layout: left
         title: ParaState
         sub_title: Ethereum on Steroids
@@ -87,7 +87,7 @@ content:
         #  
         description: | # this will include new lines to allow paragraphs
           이더리움의 느린속도를 보완하고 확장성을 늘리기 위해 기존 스마트컨트렉트를 사용하기 쉬운언어로 작성할수 있게 만들고 
-          폴카닷체인에 올려 실행시킴으로써 이더리움의 스테로이드 프로젝트로 불리는 프로젝트입니다.
+          폴카닷체인에 올려 실행시킴으로써 이더리움의 스테로이드로 불리는 프로젝트입니다.
 
           한국 텔레그램 커뮤니티 서포터로 활동 중입니다. https://t.me/parastatekorea
 
@@ -97,7 +97,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: UnitySimpleDiceGame
         link: github.com/WONJUNE-LEE/unitySimpleDIceGame
         # link_text: Project Website
