@@ -9,7 +9,7 @@ version: 2
 name: 이원준[LEE WONJUNE]
 title: 한림대학교 빅데이터과
 email: gee04147@gmail.com
-website: https://wonjune-lee.github.io/
+website: https://wonjune-lee.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -54,8 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   특히 <mark>python</mark>을 이용한 <mark>머신러닝/딥러닝</mark>과 <mark>블록체인</mark>에 관심이 많습니다.
 
   현재 몇몇 블록체인 커뮤니티의 관리자로 활동중입니다.<br>
-
-# <img src = "https://user-images.githubusercontent.com/55430857/102633427-c1104900-4193-11eb-929d-58063cd00435.png" width="160px">
+  <img src = "https://user-images.githubusercontent.com/55430857/102633427-c1104900-4193-11eb-929d-58063cd00435.png" width="160px">
   
 
 content:
@@ -66,7 +65,7 @@ content:
         link: https://staratlas.com/
         title: StarAtlas
         sub_title: YOUR INTERSTELLAR <br>ADVENTURE AWAITS
-        #caption: YOUR INTERSTELLAR ADVENTURE AWAITS
+        #caption: 
         quote: >
           "우주의 경계에 가장 먼저 도착한 사람은 번영의 문을 두드리게 될것입니다."
         description: | # this will include new lines to allow paragraphs
@@ -74,9 +73,23 @@ content:
           블록체인과 완전히 결합되어 게임내 사용되는 자산과 정책결정 자산을 통해 완전히 사용자들에 의해서 운영되는
           탈중앙화 메타버스입니다.
 
-          한국 텔레그램 커뮤니티의 앰배서더로 활동중입니다. https://t.me/staratlasKOR
+          한국 텔레그램 커뮤니티의 앰배서더로 활동 중입니다. https://t.me/staratlasKOR
 
           ![calico-guardian](https://user-images.githubusercontent.com/55430857/117423040-391cb700-af5b-11eb-99e9-503be8b5161a.png)
+
+    content:
+      - layout: left
+        title: ParaState
+        sub_title: Ethereum on Steroids
+        link: https://www.parastate.io/
+        #caption: 
+        #quote: >
+        #  
+        description: | # this will include new lines to allow paragraphs
+          이더리움의 느린속도를 보완하고 확장성을 늘리기 위해 기존 스마트컨트렉트를 사용하기 쉬운언어로 작성할수 있게 만들고 
+          폴카닷체인에 올려 실행시킴으로써 이더리움의 스테로이드 프로젝트로 불리는 프로젝트입니다.
+
+          한국 텔레그램 커뮤니티 서포터로 활동 중입니다. https://t.me/parastatekorea
 
           
         
