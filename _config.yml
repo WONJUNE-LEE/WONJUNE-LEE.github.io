@@ -63,7 +63,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        link: https://staratlas.com/ <br>https://t.me/staratlasKOR
+        link: https://staratlas.com/
+        link: https://t.me/staratlasKOR
         title: StarAtlas
         sub_title: YOUR INTERSTELLAR <br>ADVENTURE AWAITS
         #caption: YOUR INTERSTELLAR ADVENTURE AWAITS
