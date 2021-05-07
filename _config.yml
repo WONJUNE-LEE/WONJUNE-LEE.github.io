@@ -77,7 +77,7 @@ content:
 
           ![calico-guardian](https://user-images.githubusercontent.com/55430857/117423040-391cb700-af5b-11eb-99e9-503be8b5161a.png)
 
-    content:
+          
       - layout: left
         title: ParaState
         sub_title: Ethereum on Steroids
