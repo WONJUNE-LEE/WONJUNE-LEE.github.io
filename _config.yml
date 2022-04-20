@@ -46,7 +46,7 @@ instagram_username: june04147
 
 # About Section
 # about_title: About Me
-about_profile_image: images/wonjune.jpg
+about_profile_image: images\wonjune.jpg
 about_content: | # this will include new lines to allow paragraphs
   사용 언어 : <mark>Java</mark> <mark>python</mark> <mark>C</mark> <mark>C++</mark> <mark>C#</mark>
 
@@ -64,18 +64,17 @@ content:
       - layout: left
         link: https://staratlas.com/
         title: StarAtlas
-        sub_title: YOUR INTERSTELLAR <br>ADVENTURE AWAITS
+        sub_title:
         #caption: 
-        quote: >
-          "우주의 경계에 가장 먼저 도착한 사람은 번영의 문을 두드리게 될것입니다."
+        quote:
         description: | # this will include new lines to allow paragraphs
           솔라나 기반의 우주 메타버스 게임인 StarAtlas는 완전히 새로운 장르의 경험의 메타버스로의 시작으로서 
           블록체인과 완전히 결합되어 게임내 사용되는 자산과 정책결정 자산을 통해 완전히 사용자들에 의해서 운영되는
           탈중앙화 메타버스입니다.
 
-          한국 텔레그램 커뮤니티의 앰배서더로 활동 중입니다. https://t.me/staratlasKOR
-
-          ![calico-guardian](https://user-images.githubusercontent.com/55430857/117423040-391cb700-af5b-11eb-99e9-503be8b5161a.png)
+          한국 텔레그램 커뮤니티 앰배서더 입니다. 
+          
+          https://t.me/staratlasKOR
 
 
       - layout: left
