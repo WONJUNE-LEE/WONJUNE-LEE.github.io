@@ -259,6 +259,18 @@ content:
           
         description: | # this will include new lines to allow paragraphs
 
+  - title: 경력(Career) # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 몬드라인 AI
+        caption: 2021-07-01 ~ 2021-12-31
+        sub_title: 산학현장실습(인턴)
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          인천 송도시에 위치한 인공지능 스타트업 몬드라인 AI에서 6개월간 인턴으로 근무했습니다.
+          재직기간 동안 항만 손상탐지 모델, 비행기 이착륙시 거리측정 모델등을 개발했습니다.
+
   #- title: A Little More About Me
   #  layout: text
   #  content: | # this will include new lines to allow paragraphs
