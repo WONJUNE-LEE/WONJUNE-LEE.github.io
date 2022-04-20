@@ -46,7 +46,7 @@ instagram_username: june04147
 
 # About Section
 # about_title: About Me
-about_profile_image: images\wonjune.jpg
+about_profile_image: ./images\wonjune.jpg
 about_content: | # this will include new lines to allow paragraphs
   사용 언어 : <mark>Java</mark> <mark>python</mark> <mark>C</mark> <mark>C++</mark> <mark>C#</mark>
 
