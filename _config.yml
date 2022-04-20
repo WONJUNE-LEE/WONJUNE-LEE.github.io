@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   특히 <mark>SOLANA</mark>를 사랑합니다. 솔라나는 죽지않아.
 
-  생년월일 : 97년 11월 16일
+  생년월일 : 97년 11월 16일 <br>
   거주지 : 경기도 부천
 
 #<img src = "https://user-images.githubusercontent.com/55430857/102633427-c1104900-4193-11eb-929d-58063cd00435.png" width="160px">
@@ -222,6 +222,10 @@ content:
         quote:
         description: | # this will include new lines to allow paragraphs
           강원도 춘천에 위치한 한림대학교에서 빅데이터과(컴퓨터 공학), 경영학과를 전공했습니다.
+          빅데이터 수강내역 - C++ 프로그래밍, 임베디드시스템, 오픈소스SW개발도구활용, 파이썬과학프로그래밍, 인공지능, 윈도우프로그래밍, IoT네트워크, VR/AR 게임제작기초, 영상처리와 딥러닝,
+          웹프로그래밍, 딥러닝기초, 
+
+          경영학과 수강내역 - 회계원리, 재무관리, 경영정보시스템, 마케팅원론, 투자와세금, 조직행동론, 원가관리회계, 협상론, 인적자원관리, 회계세무데이터분석, 의료품질경영
 
   - title: 자격증 및 교육(Certification and training) # Title for the section
     layout: list # Type of content section (list/text)
