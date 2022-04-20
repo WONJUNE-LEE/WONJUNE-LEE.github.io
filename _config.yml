@@ -50,7 +50,7 @@ about_profile_image: images\wonjune.jpg
 about_content: | # this will include new lines to allow paragraphs
   사용 언어 : <mark>Java</mark> <mark>python</mark> <mark>C</mark> <mark>C++</mark> <mark>C#</mark>
 
-  안녕하세요. 컴퓨터 공학과를 졸업하고 크립토 세계에서 활동중인 이원준입니다. ,<br> 
+  안녕하세요. 한림대 컴퓨터 공학과를 졸업하고 크립토 세계에서 활동중인 이원준입니다.<br> 
   여러개의 프로젝트에서 커뮤니티를 관리하는 앰배서더로 활동 중입니다. 
 
   특히 <mark>SOLANA</mark>를 사랑합니다. 솔라나는 죽지않아.
@@ -213,12 +213,11 @@ content:
     content:
       - layout: left
         title: 한림대학교
-        caption: 2016 - 2021(재학중)
-        sub_title: 빅데이터(컴퓨터 공학)
-        quote: >
-          2021 QS 세계대학평가 국내18위, 세계 551-560위 강원도내 유일 세계 500위권 랭크
+        caption: 2016 - 2022(졸업)
+        sub_title: 빅데이터(컴퓨터 공학) <br> 경영학과
+        quote:
         description: | # this will include new lines to allow paragraphs
-          강원도에 위치한 한림대학교에 재학중입니다. 2016년 공과대학 컴퓨터공학과로 입학하였고, 한림대학교가 2019년 정부가 주도하는 소프트웨어 사업단에 선정됨에 따라 소프트웨어융합대학 빅데이터과로 개편되었습니다.
+          강원도 춘천에 위치한 한림대학교에서 빅데이터과(컴퓨터 공학), 경영학과를 전공했습니다.
 
   - title: 자격증 및 교육(Certification and training) # Title for the section
     layout: list # Type of content section (list/text)
@@ -235,6 +234,14 @@ content:
           - MOS EXCEL 2016 등록번호 : moqn-DwBq	취득일 : 2020/05/14
           - MOS WORD 2016	등록번호 : 2yPr-XMNP 취득일 :	2020/06/18
 
+      - layout: left
+        title: TOEIC
+        caption: 
+        sub_title:
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          시험일 : 2021.03.14   수험번호 : 120022   성적 : 730
 
       - layout: top-middle
         title: 데이터 분석과 이미지 처리를 위한 딥러닝 활용
