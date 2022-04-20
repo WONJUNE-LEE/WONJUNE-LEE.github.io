@@ -76,7 +76,20 @@ content:
           
           https://t.me/staratlasKOR
 
+      - layout: left
+        link: https://solana.com/ko
+        title: SOLANA
+        sub_title: 2021-06-01 ~ 현재
+        #caption: 
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          빠른속도와 저렴한 수수료로 급격하게 부상한 솔라나는 해커톤을 통한 다양한 dAPP 확보와 NFT흥행을 통해 다른체인들을 제치고
+          제2의 이더리움을 꿈꾸고 있습니다.
 
+          한국 텔레그램 커뮤니티 앰배서더 입니다. 
+
+          https://t.me/SolanaKor
+          
       - layout: left
         title: ParaState
         sub_title: Ethereum on Steroids
@@ -88,7 +101,9 @@ content:
           이더리움의 느린속도를 보완하고 확장성을 늘리기 위해 기존 스마트컨트렉트를 사용하기 쉬운언어로 작성할수 있게 만들고 
           폴카닷체인에 올려 실행시킴으로써 이더리움의 스테로이드로 불리는 프로젝트입니다.
 
-          한국 텔레그램 커뮤니티 서포터로 활동 중입니다. https://t.me/parastatekorea
+          한국 텔레그램 커뮤니티 서포터로 활동 중입니다. 
+          
+          https://t.me/parastatekorea
 
           
         
