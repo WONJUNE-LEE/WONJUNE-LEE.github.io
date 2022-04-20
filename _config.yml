@@ -89,19 +89,33 @@ content:
           한국 텔레그램 커뮤니티 앰배서더 입니다. 
 
           https://t.me/SolanaKor
-          
+
+      - layout: left
+        link: https://injective.com/
+        title: Injective Porotocol
+        sub_title: 2021-12-01 ~ 현재
+        #caption: 
+        quote:
+        description: | # this will include new lines to allow paragraphs
+          인젝티브 프로토콜은 이더리움체인 위에서 작동하는 대표적인 레이어2 프로젝트중 하나로 메인넷에 구축한 DEX를 통해 수수료없는
+          현물/선물 거래를 제공하는 프로젝트입니다. 코스모스 IBC체인과의 호환을 통해 대표적인 DEX가 되기위해 노력하고 있습니다.
+
+          한국 텔레그램 커뮤니티 앰배서더 입니다.
+
+          https://t.me/Injective_Korea   
+
       - layout: left
         title: ParaState
-        sub_title: Ethereum on Steroids
+        sub_title: 2021-04-01 ~ 2021-08-31
         link: https://www.parastate.io/
         #caption: 
         #quote: >
         #  
         description: | # this will include new lines to allow paragraphs
-          이더리움의 느린속도를 보완하고 확장성을 늘리기 위해 기존 스마트컨트렉트를 사용하기 쉬운언어로 작성할수 있게 만들고 
-          폴카닷체인에 올려 실행시킴으로써 이더리움의 스테로이드로 불리는 프로젝트입니다.
+          이더리움의 확장성을 늘리기 위해 기존 스마트컨트렉트를 사용하기 쉬운언어로 작성할수 있게 만들고 
+          폴카닷 파라체인에서 컨트렉트를 실행시키고 마지막 단계만 이더리움에서 처리함으로써 느린속도를 보완하는 이더리움의 스테로이드로 불리는 프로젝트입니다.
 
-          한국 텔레그램 커뮤니티 서포터로 활동 중입니다. 
+          한국 텔레그램 커뮤니티 서포터로 활동했습니다. 
           
           https://t.me/parastatekorea
 
